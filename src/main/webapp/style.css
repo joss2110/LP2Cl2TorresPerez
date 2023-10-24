@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+body{
+	background-color: #f0ede5;
+}
+.botones{
+	background-color: #e6e6fa;
+	border-radius: 5px;
+	border: 1px solid white;
+	width: 100%;
+	height:30px;
+	margin-top:20px;
+}
+.TablaRegistrar input[type=text]{
+	width: 200px;
+}
+.tablaListado{
+	background-color: white;
+	width:50%;
+}
+.tablaListado th{
+	background-color: #e6e6fa;
+}
+.TablaRegistrar select{
+	width: 100%;
+}
+.TablaRegistrar tr:first-child td:first-child {
+  width: 150px; /* Cambia el ancho a tu valor deseado */
+}

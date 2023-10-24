@@ -54,7 +54,7 @@
 	<%=mensaje%>
 	</div>
 	
-	<h1 align="center">Listado Auto</h1>
+	<h1 align="center">Listado Producto</h1>
 	
 	
 	<table class="tablaListado" align="center" border="2" >

@@ -33,7 +33,7 @@ public class TestProducto {
 		
 		/*ELIMINAR*/
 		
-		/*tblProd.setIdproductocl2(1);
+		/*tblProd.setIdproductocl2(10);
 		crudProd.EliminarProducto(tblProd);*/
 		
 		/*LISTAR*/
